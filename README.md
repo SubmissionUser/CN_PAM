@@ -1,7 +1,7 @@
 # CN PAM
 Efficient complex network representation using prime numbers
 
-Accompanying code for CN023 submission, please do not redistribute.
+Accompanying code for CN2023 submission, please do not redistribute.
 
 The requirements for this project can be met by running:
 
